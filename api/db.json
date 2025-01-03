@@ -1,0 +1,69 @@
+{
+    "programacao": {
+      "id": "programacao",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2021/09/curso_fullstack-299x300.jpg",
+      "titulo": "Curso Dev Full Stack",
+      "subtitulo": "Do 0 ao profissional Dev / 1 ano",
+      "descricao": "Para quem quer entrar nas profissões de desenvolvimento de sistemas, aplicativas, inteligência artificial e Web. Do Front end ao Back end.",
+      "duracao": "13 meses",
+      "sobre": "Aprenda todas as habilidades e conhecimentos para se tornar um profissional Dev com amplo aspecto. Aprenda Python, Javascript, HTML, CSS, Banco de dados Mysql, React e muito mais. Do front end ao Back end, desenvolvimentos de aplicativos, web, sistemas, inteligência artificial, sistema de gestão ágil e muito mais. Esse curso e feito para quem quer começar e tem interesse de entrar em uma das profissões mais rentáveis do momento."
+    },
+    "data": {
+      "id": "data",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2022/03/icon-data_science-300x300.png",
+      "titulo": "Curso Programação Cientista de Dados",
+      "subtitulo": "TORNE-SE UM ESPECIALISTA EM DADOS COM PYTHON",
+      "descricao": "ENTRE NA ÁREA MAIS BEM PAGA DA PROGRAMAÇÃO E TORNE UM ESPECIALISTA EM DATASCIENCE AVANÇADO",
+      "duracao": "10 meses",
+      "sobre": "O curso vai abordar assuntos desde a introdução para quem não tem conhecimento em programação até temas avançados em Data Science, formando um profissional na área. Serão aulas práticas com as plataformas de programação na sala de aula . Além de aulas em laboratórios avançados com aplicação da neurotecnologia para análise de dados neurais e aprendizado sobre como funciona o processo natural de armazenamento e funcionamento dos dados no cerebro."
+    },
+    "design": {
+      "id": "design",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2018/03/curso-ilustracao-digital.png",
+      "titulo": "Curso Design Full Stack",
+      "subtitulo": "Introdução à Indústria Criativa",
+      "descricao": "Para quem busca entrar no universo da indústria criativa e das novas tendências da arte digital. Um curso completo de apenas 1 ano.",
+      "duracao": "12 meses",
+      "sobre": "A interdisciplinaridade é o ponto forte do curso que promove o desenvolvimento profissional em áreas como design editorial, identidade visual, webdesign e foto e vídeo. No laboratório os alunos vão encontrar equipamentos modernos, estúdio fotográfico e um Escritório Modelo para colocar projetos em prática."
+    },
+    "art": {
+      "id": "art",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2018/02/art-design-thumb-299x300.jpg",
+      "titulo": "Curso Art Design",
+      "subtitulo": "Concepts arts, ilustração 2D e Tratamento de imagem",
+      "descricao": "Aprenda a manipular imagens e a criar concepts 2D incríveis com esse curso avançado de ilustração 2D",
+      "duracao": "9 meses",
+      "sobre": "O curso oferece técnicas avançadas para criar ilustrações 2D. O aluno poderá desenvolver conteúdos para as áreas de publicidade, marketing promocional, estúdios de design, games, pós-produção audiovisual, arquitetura, design de interiores e muito mais. Além dos fundamentos do desenho e pintura digital, o aluno irá explorar as mais avançadas técnicas de manipulação de imagem."
+    },
+    "film": {
+      "id": "film",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2018/02/Layer-522-1.png",
+      "titulo": "Curso Film Design",
+      "subtitulo": "Captura, Edição e Motion Graphics para Vídeos",
+      "descricao": "Aprenda em 14 meses a se tornar um expert na área de vídeos e efeitos especiais",
+      "duracao": "14 meses",
+      "sobre": "Surpreenda-se com esse curso inédito em Salvador voltado para a área do audiovisual. Um curso completo de 14 meses, exclusivo para área de vídeo e áudio, no qual serão aprofundadas todas as etapas de criação de vídeos, desde a captura à pós-produção e efeitos visuais. O curso Film Design traz um conteúdo moderno e alinhado a todas as produções audiovisuais, desde vídeos para youtubers até a produção cinematográfica."
+    },
+  
+  
+    "fotografia": {
+      "id": "fotografia",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2018/06/curso-photography-thumb.jpg",
+      "titulo": "Curso Fotografia Design",
+      "subtitulo": "Curso presencial / 9 meses",
+      "descricao": "Torne-se um Diretor de Fotografia profissional",
+      "duracao": "9 meses",
+      "sobre": "Um curso moderno e diferente dos outros cursos de fotografia. Com duração de 6 meses, o curso foca em formar um fotógrafo profissional, sabendo lidar com todos os tipos de fotografias e sua pós-produção. Com conteúdo aprofundado e 100% prático, o aluno irá participar de ensaios fotográficos produzido pela escola e por clientes parceiros. Tudo isso com os melhores professores do mercado."
+    },
+  
+  
+    "marketing": {
+      "id": "marketing",
+      "fotos": "https://infinityschool.com.br/wp-content/uploads/2018/09/thumbnail_redes-sociais.jpg",
+      "titulo": "Curso Marketing Digital",
+      "subtitulo": "Curso presencial / 8 meses",
+      "descricao": "Aprenda a criar campanhas completas de marketing digital e gerenciar redes sociais de forma eficaz",
+      "duracao": "8 meses",
+      "sobre": "Um curso completo para quem quer trabalhar em uma das principais e mais demandadas áreas do marketing: o universo digital. Ao se formar, o aluno poderá trabalhar tanto com a gestão de campanhas em marketing digital, bem como efetuar a gestão de redes sociais."
+    }
+  }
